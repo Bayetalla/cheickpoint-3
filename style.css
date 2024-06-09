@@ -1,0 +1,39 @@
+/* GENERAL */
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    background: yellow;
+    font-family: "Roboto", sans empattem;
+    font-size: 25px;
+}
+.wrapper{
+    width: 950px;
+    margin: 10px 40px;
+    padding: 0 10px;
+}
+nav{
+    height: 70px;
+    padding-left: 30px;
+    margin: 30px 30px 0;
+}
+nav h1{
+    float: left;
+    text-transform: uppercase;
+}
+nav ul{
+    float: right;
+}
+li{
+    display: inline-block;
+    margin-top: 10px;
+}
+a{
+    font-weight: bolder;
+    margin-right: 15px;
+}
+
+
